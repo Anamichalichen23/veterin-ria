@@ -138,3 +138,10 @@ footer a:hover {
     grid-template-columns: 1fr;
   }
 }
+
+.banner {
+  background-image: url('imagens/medicina.webp');
+  background-size: cover;
+  background-position: center;
+  height: 400px;
+}
